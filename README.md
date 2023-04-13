@@ -1,4 +1,4 @@
-# Data Extraction and NLP
+# Extracting and Analyzing Textual Data from URLs
 
 ### OBJECTIVE :
 The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
